@@ -1,0 +1,37 @@
+label: gpt
+label-id: 98101B32-BBE2-4BF2-A06E-2BB33D000C20
+device: /dev/sdd
+unit: sectors
+first-lba: 34
+last-lba: 61071326
+table-length: 32
+
+/dev/sdd1 : start=        1024, size=      131072, type=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7, uuid=A6DCD330-5349-64AE-4BB7-36154BFC315A, name="modem", attrs="GUID:60"
+/dev/sdd2 : start=      132096, size=        2048, type=DEA0BA2C-CBDD-4805-B4F9-F428251C3E98, uuid=7D485314-87C6-CDB3-1383-E51E31D04AE0, name="sbl1"
+/dev/sdd3 : start=      134144, size=        1024, type=098DF793-D712-413D-9D4E-89D711772228, uuid=2A4797C7-6461-81F3-4DAA-DE5AAED392E0, name="rpm"
+/dev/sdd4 : start=      135168, size=        1024, type=A053AA7F-40B8-4B1C-BA08-2F68AC71A4F4, uuid=388570C8-F560-DA70-315D-D804904B9577, name="tz"
+/dev/sdd5 : start=      136192, size=        1024, type=D4E0D938-B7FA-48C1-9D21-BC5ED5C4B203, uuid=A0406E5B-DCD1-4C3B-6939-9FD090C31E3E, name="sdi"
+/dev/sdd6 : start=      137216, size=        1024, type=400FFDCD-22E0-47E7-9A23-F16ED9382388, uuid=824B3B09-EE45-B27F-FAC1-323532DEB6B7, name="aboot"
+/dev/sdd7 : start=      138240, size=        4096, type=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7, uuid=E4FB9A15-9494-D3FD-4DB9-20A6D2BF0CFA, name="pad"
+/dev/sdd8 : start=      142336, size=        2048, type=6952B77A-8259-4864-9D66-40A6793CE737, uuid=35B80EDC-C7A4-AD4D-05D3-11563079F37B, name="sbl1b"
+/dev/sdd9 : start=      144384, size=        1024, type=80F07C88-5C6D-48D3-8EA6-B984F7EDD622, uuid=63A86EE6-B650-B56E-852A-FC2B3102A1DA, name="tzb"
+/dev/sdd10 : start=      145408, size=        1024, type=F1FC4C90-0705-4830-ADBD-291E78BD2E2A, uuid=66A5293B-35A0-7C93-A9F6-43EE98A4AB6A, name="rpmb"
+/dev/sdd11 : start=      146432, size=        1024, type=0B8202FA-26A5-468F-B356-952D5EC60CEC, uuid=DAE5E34C-24C5-05A7-A02D-0F2D1A221C2D, name="abootb"
+/dev/sdd12 : start=      147456, size=        6144, type=EBBEADAF-22C9-E33B-8F5D-0E81686A68CB, uuid=EDFAEA8F-EC6E-D046-3BA5-784F611DB235, name="modemst1"
+/dev/sdd13 : start=      153600, size=        6144, type=0A288B1F-22C9-E33B-8F5D-0E81686A68CB, uuid=FB79ABA8-ECE6-0CD5-786C-319B071A7F81, name="modemst2"
+/dev/sdd14 : start=      159744, size=        1024, type=8DA63339-0007-60C0-C436-083AC8230908, uuid=298BC751-50A4-81F8-9C76-09B25ED061A1, name="metadata"
+/dev/sdd15 : start=      160768, size=       32768, type=6CD30554-5F5D-40EF-82FE-1092359F92EE, uuid=E8CAD5D0-E1E3-CC2A-B870-609C90919CD4, name="misc"
+/dev/sdd16 : start=      193536, size=       32768, type=0FC63DAF-8483-4772-8E79-3D69D8477DE4, uuid=9B617310-1E5A-4AC3-C721-7A3ECDDECC48, name="persist"
+/dev/sdd17 : start=      226304, size=        6144, type=51E36039-8392-41D8-9423-BF9CF8BBAD00, uuid=05B43E93-1CEA-60A4-C529-1AB10FB86400, name="imgdata"
+/dev/sdd18 : start=      232448, size=       45056, type=98523EC6-90FE-4C67-B50A-0FC59ED6F56D, uuid=FD10B6B7-AB73-99F6-F054-4D270C4C58CF, name="laf"
+/dev/sdd19 : start=      277504, size=       45056, type=20117F86-E985-4357-B9EE-374BC1D8487D, uuid=E9590DAE-6D9C-29DE-7E45-9D206DEA11F5, name="boot", attrs="GUID:60"
+/dev/sdd20 : start=      322560, size=       45056, type=20117F86-E985-4357-B9EE-374BC1D8487D, uuid=3E335802-D5E7-578B-B926-7607EAAC8271, name="recovery", attrs="GUID:60"
+/dev/sdd21 : start=      367616, size=        6144, type=638FF8E2-22C9-E33B-8F5D-0E81686A68CB, uuid=BDBDBDA9-83F1-C97F-19CE-E564C30B6BDE, name="fsg", attrs="GUID:60"
+/dev/sdd22 : start=      373760, size=        1024, type=57B90A16-22C9-E33B-8F5D-0E81686A68CB, uuid=498415B8-B7E6-1ED4-5460-BB3EA1227AA2, name="fsc"
+/dev/sdd23 : start=      374784, size=        1024, type=2C86E742-745E-4FDD-BFD8-B6A7AC638772, uuid=C7A5DD5D-2EA5-7B65-921E-38009F1D7919, name="ssd"
+/dev/sdd24 : start=      375808, size=        1024, type=20A0C19C-286A-42FA-9CE7-F64C3226A794, uuid=29C2E159-F66C-6883-2E18-51A30942BEED, name="DDR", attrs="GUID:60"
+/dev/sdd25 : start=      376832, size=     2097152, type=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7, uuid=68BBACF6-49DB-75A5-550E-B5F693259466, name="system", attrs="GUID:60"
+/dev/sdd26 : start=     2473984, size=       61440, type=19CC541E-CEF7-45E4-98FD-A2D897E663D2, uuid=8033EE77-7E86-04E4-94EC-AA50EAB3390D, name="crypto"
+/dev/sdd27 : start=     2535424, size=     1433600, type=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7, uuid=063A4F10-464D-0443-B44E-F5EAFA716438, name="cache", attrs="GUID:60"
+/dev/sdd28 : start=     3969024, size=    57102292, type=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7, uuid=86262DC6-8D40-E067-A047-33E063650EE7, name="userdata", attrs="GUID:60"
+/dev/sdd29 : start=    61071316, size=          11, type=EBD0A0A2-B9E5-4433-87C0-68B6B72699C7, uuid=5C0E6B5D-7029-7C3C-D149-EB88CAC2D96B, name="grow", attrs="GUID:60"
